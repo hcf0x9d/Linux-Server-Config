@@ -2,7 +2,11 @@
 
 Hosting a web application on a Linux Server starting from a base installation.
 
+> #### TL;DR
 > Application can be found at http://ec2-35-164-101-52.us-west-2.compute.amazonaws.com
+> 
+> - IP: 35:164:101:52
+> - SSH PORT: 2200
 >
 > _This link will expire on or before October 28_
 
